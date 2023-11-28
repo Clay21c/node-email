@@ -1,0 +1,10 @@
+{"message":"service https://google.com working","level":"low","createdAt":"2023-11-28T15:55:30.919Z"}
+{"message":"service https://google.com working","level":"low","createdAt":"2023-11-28T15:55:40.583Z"}
+{"message":"service https://google.com working","level":"low","createdAt":"2023-11-28T15:55:50.558Z"}
+{"message":"service https://google.com working","level":"low","origin":"chech-serives.ts","createdAt":"2023-11-28T17:16:30.944Z"}
+{"message":"service https://google.com working","level":"low","origin":"chech-serives.ts","createdAt":"2023-11-28T17:16:40.666Z"}
+{"message":"service https://google.com working","level":"low","origin":"chech-serives.ts","createdAt":"2023-11-28T17:16:50.678Z"}
+{"message":"service https://google.com working","level":"low","origin":"chech-serives.ts","createdAt":"2023-11-28T17:17:00.654Z"}
+{"message":"Email sent","level":"low","origin":"email.service.ts","createdAt":"2023-11-28T19:16:02.755Z"}
+{"message":"Email log sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-28T19:42:18.265Z"}
+{"message":"Email log sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-28T19:44:00.237Z"}
