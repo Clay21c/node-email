@@ -1,3 +1,9 @@
 {"message":"service https://google.com working","level":"low","origin":"chech-serives.ts","createdAt":"2023-11-28T17:17:00.654Z"}
 {"message":"Email log sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-28T19:42:18.265Z"}
 {"message":"Email log sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-28T19:44:00.237Z"}
+{"message":"Error: Email log not sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-28T19:00:38.726Z"}
+{"message":"Error: Email log not sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-30T00:22:54.178Z"}
+{"message":"Error: Email log not sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-30T00:26:39.598Z"}
+{"message":"Email log sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-30T00:27:05.135Z"}
+{"message":"Email log sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-30T17:42:41.982Z"}
+{"message":"Email log sent","level":"high","origin":"send-logs.ts","createdAt":"2023-11-30T17:43:14.332Z"}
