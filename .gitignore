@@ -8,3 +8,4 @@ postgres/
 mongo-test/
 postgres-test/
 prisma/
+coverage/
