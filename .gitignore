@@ -4,3 +4,7 @@ node_modules/
 logs/
 mongo/
 postgres/
+
+mongo-test/
+postgres-test/
+prisma/

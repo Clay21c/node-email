@@ -1,0 +1,22 @@
+version: '7.0.4'
+services:
+  mongo-db:
+    image: mongo
+    restart: always
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_USER}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_PASS}
+    volumes:
+    - ./mongo-test:/data/db
+    ports:
+    - 27018:27017
+  postgres-db:
+    image: postgres
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 12345
+    volumes:
+    - ./postgres-test:/var/lib/postgresql/data
+    ports:
+    - 5434:5432
